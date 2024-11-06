@@ -1,4 +1,3 @@
-
 import  Footer  from "../components/Footer"
 import Nav2 from "../components/Nav2"
 import News2 from "../components/News2"
