@@ -1,5 +1,5 @@
-import newside from "../assets/New-Sides-intro-Blog-1.jpeg.jpg"
-import meet from "../assets/meet-the-long-kings.jpeg.jpg"
+import newside from "../assets/New-Sides.jpg"
+import meet from "../assets/meet-the-long.jpg"
 import bestseller from "../assets/best-seller.jpg"
 import whooper from "../assets/second-news.jpg.jpeg"
 const Newsr = () =>{
