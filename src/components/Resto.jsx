@@ -2,10 +2,20 @@ import { RiSendPlaneLine } from "react-icons/ri";
 import {Link} from "react-router-dom"
 import { useState } from "react";
 import { MdOutlineClear } from "react-icons/md";
+import BranchMap from './Branchmap';
+// import React, { useState } from 'react';
+
+
 const Resto = () =>{
     const [address, setAddress] = useState("");
+    const [selectedLocation, setSelectedLocation] = useState(null);
     return(
       <>
+      
+            <div>
+            <BranchMap selectedLocation={selectedLocation} />
+        </div>
+
       <div className="The-container">
          <div className="home-resto">
            <Link to="/">Home /</Link>
