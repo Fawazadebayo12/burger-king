@@ -1,5 +1,5 @@
 import caramel from "../assets/caramel-sundae.jpg"
-import stray from "../assets/Strawberry-sundae.jpg"
+import stray from "../assets/strawberry-sundae.jpg"
 import choco from "../assets/chocolate-sundae.jpg"
 import kitkat from "../assets/kit-kat.jpg"
 const Desserts = () =>{
