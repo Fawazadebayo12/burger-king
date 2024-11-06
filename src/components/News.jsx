@@ -1,4 +1,4 @@
-import burger1 from "../assets/meet-the-long-kings.jpeg.jpg";
+import burger1 from "../assets/meet-the-long.jpg";
 import slide from "../assets/New-Sides-Intro-Blog-1.jpeg.jpg";
 import artboard from "../assets/Artboard-15-20.jpeg.jpg";
 
