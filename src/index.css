@@ -408,15 +408,14 @@ padding-right: 30px;
   align-items: center;
 }
 .wooper1{
-  /* background-color: #d3bc9b; */
   background-color: #ecddc3;
   border-radius: 20px;
   border: 2px solid #a89b87;
   padding: 19px;
-  display: inline-block;
+  /* display: inline-block; */
   margin-left: 60px;
-  margin-bottom: 30px;
-  padding-top: -60px;
+  /* margin-bottom: 30px; */
+  /* padding-top: -60px; */
   position: relative;
 }
 .wooper2 h2{
